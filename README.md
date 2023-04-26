@@ -24,4 +24,7 @@ This is a simple Python script that uses OpenCV to detect and count the number o
     │   ├── rectangle_numbering.py
     └── README.md
 
+# Images
 
+![Edge_Detection_Image](https://user-images.githubusercontent.com/45705878/234575028-a6a27e85-00a1-42c3-aa06-2d45dfc136a2.png)
+![Rectangle_Image_count](https://user-images.githubusercontent.com/45705878/234575052-c7cc3ac1-c623-4ae8-929d-da46882f23fc.png)
